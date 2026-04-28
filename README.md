@@ -1,3 +1,5 @@
+![Description](images/preview.png)   
+
 Beginner Python project which calculates and displays which plates to load onto a barbell, specifically for powerlifting equipment.
 Assumes the starting weight of the barbell (20kg), accepts input for a given weight, and defines an inventory of plates to choose from. 
 
